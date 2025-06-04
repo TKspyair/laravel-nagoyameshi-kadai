@@ -26,4 +26,20 @@ Stack:          heroku-24
 Web URL:        https://tako-laravel-nagoyameshi-cc8ba29fdc45.herokuapp.com/
 */
 
+
+
+/*
+- （1）GitHubのリポジトリのURL
+    a- URL：https://git.heroku.com/tako-laravel-nagoyameshi.git
+- （2）HerokuにデプロイしたアプリのURL
+    - URL：https://tako-laravel-nagoyameshi-cc8ba29fdc45.herokuapp.com/
+- （4）課題レビュー用のアカウントの情報
+    - 会員のアカウント情報
+          - メールアドレス：kumiko33@example.org
+          - パスワード：$2y$12$10RovA/QwfCqJi5Z.kMbt.Vp2zW765ZExsim4l07yHnZa0HGpW40.
+    - 管理者のアカウント情報
+          - メールアドレス：admin@example.com
+          - パスワード：$2y$12$h0YRJ75/XtB96Mr4jFiJ6uTTb7oGP8i2G1FLH0/Gb973Xs4dsjBmu
+    - 管理者画面URL：https://tako-laravel-nagoyameshi-cc8ba29fdc45.herokuapp.com/login
+*/
 ?>
