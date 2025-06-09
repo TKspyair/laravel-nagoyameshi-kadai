@@ -30,15 +30,16 @@ Web URL:        https://tako-laravel-nagoyameshi-cc8ba29fdc45.herokuapp.com/
 
 /*
 - （1）GitHubのリポジトリのURL
-    a- URL：https://git.heroku.com/tako-laravel-nagoyameshi.git
+    a- URL：https://github.com/TKspyair/laravel-nagoyameshi-kadai.git
 - （2）HerokuにデプロイしたアプリのURL
     - URL：https://tako-laravel-nagoyameshi-cc8ba29fdc45.herokuapp.com/
 - （4）課題レビュー用のアカウントの情報
     - 会員のアカウント情報
-          - メールアドレス：ryohei73@example.org
-          - パスワード：$2y$12$r8gTV2jfeusXWwdiGs4Gj.nft2bl32xXgBtdh8iPQZdt6tNDJQi0q
+          - メールアドレス：hideki32@example.com
+          - パスワード：password
     - 管理者のアカウント情報
           - メールアドレス：admin@example.com
-          - パスワード：$2y$12$puiKE3hRgIYr5HpHcOZ/xeJDT8uf2NIUOzaMJj/oEZH1ylnCBGqG2
+          - パスワード：nagoyameshi
     - 管理者画面URL：http://localhost/laravel-nagoyameshi/public/admin/home
+    */
 ?>
